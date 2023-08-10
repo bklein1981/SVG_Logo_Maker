@@ -1,0 +1,5 @@
+<svg width="300" height="200" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <polygon points="150, 5 250, 200 50, 200" fill="#008080"/>
+    <text x='150' y='180' fill="#FF6E00" font-size="50pt" text-anchor="middle">DK</text>
+
+</svg>
