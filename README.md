@@ -18,6 +18,8 @@
   
   ## Usage
   To Run the SVG generator, use node index.js from the command line, answer the questions provided, and an SVG logo matching your criteria will be placed in the examples folder.
+
+  ![Circles](./examples/circle%20sample.svg) ![Square](./examples/square%20sample.svg) ![Triangle](./examples/triangle%20sample.svg)
   
   ## License
   This software is not covered under any license.
@@ -31,6 +33,6 @@
   N/A
   
   ## Questions
-  Github: https://github.com/bklein1981
+  Github: https://github.com/bklein1981/SVG_Logo_Maker
   
-  email: You may contact me at bklein1981@gmail.com if you have additional questions.
+  Video Walkthrough Link:
