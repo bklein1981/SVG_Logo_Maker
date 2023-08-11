@@ -35,4 +35,4 @@
   ## Questions
   Github: https://github.com/bklein1981/SVG_Logo_Maker
   
-  Video Walkthrough Link:
+  Video Walkthrough Link: https://drive.google.com/file/d/1KMzubMP4ZeobapX6qVc9IaWj80C7n37a/view
